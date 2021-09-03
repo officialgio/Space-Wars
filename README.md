@@ -1,17 +1,38 @@
-# Space-Wars
-Space Wars is a 2D shooter game that involves falling objects attacking in "Space".
+<p align="center">
+    <img width="400" src="./Local Storage/images/.jpg">
+</p>
 
-Link: https://space-wars-.glitch.me/
+<h1 align="center">Space Wars</h1>
 
-The game was created in the Glitch platform. The program involves mainly the usage of javascript. The animating text used HTML/CSS; I found several text animations that caught my attention and learn them and implement them in the game. The game uses 2 p5.js libraries -- the usage of p5.particles and p5.collide2D. With the entire project -- Object Oriented Programming was used -- the game shows the basic fundemantals of Javascript.
+<div align="center">
+A program that stores rolling Students Data into the Local Storage </br></br>
+</div>
+
+### 📊 Project idea: Full Stack Development Begginer Demo
+
+## 🌟 Features/Concepts Learned
+
+- 💻 Game that runs on only Javascript
+- 📊 implemented dunamentals of Programming.
+- 💻 Added intro 'Press ENTER'
+- ➕ Inserting multiple enemies.
 
 
+## 📂 Technologies Used
 
-Controls:
+### Game
 
- - Press 'W' to shoot bullets for incoming enemies
- - Use the arrow keys 'UP_ARROW, LEFT_ARROW, RIGHT_ARROW_, DOWN_ARROW' for movement.
+- HTML
+- CSS
+- Javascript
 
-Note;
+## ✅ Task
 
- - Keep track of your score, time, and lives on the top left of the canvas. 
+Destory as many enemies as possible before the time runs out and avoid collision.
+
+## 📌 Authors
+
+🧑🏽‍💻 **Giovanny Hernandez** - Lead and design the Project.
+
+🧑🏽‍💻 **jocelyn Gamboa** - Took charge of detail features in the game. 
+
