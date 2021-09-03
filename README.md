@@ -8,8 +8,7 @@
 A program that stores rolling Students Data into the Local Storage </br></br>
 </div>
 
-### 📊 Project idea: Full Stack Development Begginer Demo
-
+### 📊 Project idea: Galaxy Aracade Game
 ## 🌟 Features/Concepts Learned
 
 - 💻 Game that runs on only Javascript
@@ -28,7 +27,7 @@ A program that stores rolling Students Data into the Local Storage </br></br>
 
 ## ✅ Task
 
-Destory as many enemies as possible before the time runs out and avoid collision.
+Destory as many enemies as possible before the time runs out and avoid collision. 💫
 
 ## 📌 Authors
 
