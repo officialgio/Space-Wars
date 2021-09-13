@@ -8,7 +8,7 @@
 This game is a 2D single player shooter game. It involves a player destroying falling enemies in "Space".</br></br>
 </div>
 
-### 📊 Project idea: Galaxy Aracade Game
+### 👩🏼‍🚀🛸 Project idea: Galaxy Aracade Game
 ## 🌟 Features/Concepts Learned
 
 - 💻 Game that runs on only Javascript
