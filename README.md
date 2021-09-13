@@ -5,7 +5,7 @@
 <h1 align="center">Space Wars</h1>
 
 <div align="center">
-A program that stores rolling Students Data into the Local Storage </br></br>
+This game is a 2D single player shooter game. It involves a player destroying falling enemies in "Space".</br></br>
 </div>
 
 ### 📊 Project idea: Galaxy Aracade Game
@@ -27,7 +27,7 @@ A program that stores rolling Students Data into the Local Storage </br></br>
 
 ## ✅ Task
 
-Destory as many enemies as possible before the time runs out and avoid collision. 💫
+Destroy as many enemies as possible before the time runs out and avoid collision. 💫
 
 ## 📌 Authors
 
