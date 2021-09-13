@@ -11,9 +11,9 @@ This game is a 2D single player shooter game. It involves a player destroying fa
 ### 👩🏼‍🚀🛸 Project idea: Galaxy Aracade Game
 ## 🌟 Features/Concepts Learned
 
-- 💻 Game that runs on only Javascript
+- 💻 The game runs on only Javascript.
 - 📊 implemented dunamentals of Programming.
-- 💻 Added intro 'Press ENTER'
+- 💻 Added intro 'Press ENTER' using HTML/CSS.
 - ➕ Inserting multiple enemies.
 
 
@@ -31,7 +31,7 @@ Destroy as many enemies as possible before the time runs out and avoid collision
 
 ## 📌 Authors
 
-🧑🏽‍💻 **Giovanny Hernandez** - Lead and design the Project.
+🧑🏽‍💻 **Giovanny Hernandez** - Led and design the Project.
 
 🧑🏽‍💻 **jocelyn Gamboa** - Took charge of detail features in the game. 
 
