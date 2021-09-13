@@ -35,5 +35,5 @@ Destroy as many enemies as possible before the time runs out and avoid collision
 
 🧑🏽‍💻 **Giovanny Hernandez** - Led and design the Project.
 
-🧑🏽‍💻 **jocelyn Gamboa** - Took charge of detail features in the game. 
+🧑🏽‍💻 **Jocelyn Gamboa** - Took charge of detail features in the game. 
 
